@@ -1,3 +1,5 @@
+####Recommended settings
+
 #####Let Windows apps access account information
 
 Enabled | Force deny
