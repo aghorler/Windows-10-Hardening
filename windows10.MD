@@ -2,138 +2,138 @@
 
 Enabled | Force deny
 
-####Let Windows apps access the calender
+#####Let Windows apps access the calender
 
 Enabled | Force deny
 
-####Let Windows apps access call history
+#####Let Windows apps access call history
 
 Enabled | Force deny
 
-####Let Windows apps access the camera
+#####Let Windows apps access the camera
 
 Enabled | Force deny
 
-####Let Windows apps access contacts
+#####Let Windows apps access contacts
 
 Enabled | Force deny
 
-####Let Windows apps access email
+#####Let Windows apps access email
 
 Enabled | Force deny
 
-####Let Windows apps access location
+#####Let Windows apps access location
 
 Enabled | Force deny
 
-####Let Windows apps access messaging
+#####Let Windows apps access messaging
 
 Enabled | Force deny
 
-####Let Windows apps access the microphone
+#####Let Windows apps access the microphone
 
 Enabled | Force deny
 
-####Let Windows apps access motion
+#####Let Windows apps access motion
 
 Enabled | Force deny
 
-####Let Windows apps control radios
+#####Let Windows apps control radios
 
 Enabled | Force deny
 
-####Let Windows apps access trusted devices
+#####Let Windows apps access trusted devices
 
 Enabled | Force deny
 
-####Let Windows apps sync with devices
+#####Let Windows apps sync with devices
 
 Enabled | Force deny
 
-####Turn off Application Telemetry
+#####Turn off Application Telemetry
 
 Enabled
 
-####Turn off Inventory Collector
+#####Turn off Inventory Collector
 
 Enabled
 
-####Turn off Steps Recorder
+#####Turn off Steps Recorder
 
 Enabled
 
-####Turn off Autoplay
+#####Turn off Autoplay
 
 Enabled
 
-####Set the default behavior for AutoRun
+#####Set the default behavior for AutoRun
 
 Enabled | Do not execute any autorun commands
 
-####Do not show Microsoft Tips
+#####Do not show Microsoft Tips
 
 Enabled
 
-####Turn off Microsoft consumer experiences
+#####Turn off Microsoft consumer experiences
 
 Enabled
 
-####Do not display the password reveal button
+#####Do not display the password reveal button
 
 Enabled
 
-####Toggle user control over Insider builds
+#####Toggle user control over Insider builds
 
 Disabled
 
-####Allow Telemetry
+#####Allow Telemetry
 
 Enabled | Security
 
-####Disable pre-release features or settings
+#####Disable pre-release features or settings
 
 Enabled
 
-####Do not show feedback notification
+#####Do not show feedback notification
 
 Enabled
 
-####Download Mode
+#####Download Mode
 
 Enabled | LAN
 
-####Turn off desktop gadgets
+#####Turn off desktop gadgets
 
 Enabled
 
-####Configure Windows SmartScreen
+#####Configure Windows SmartScreen
 
 Disabled
 
-####Turn off downloading of game information
+#####Turn off downloading of game information
 
 Enabled
 
-####Turn off location
+#####Turn off location
 
 Enabled
 
-####Turn off location scripting
+#####Turn off location scripting
 
 Enabled
 
-####Turn off Windows Location Provider
+#####Turn off Windows Location Provider
 
 Enabled
 
-####Disable remote Desktop Sharing
+#####Disable remote Desktop Sharing
 
 Enabled
 
-####Prevent the usage of OneDrive for file storage
+#####Prevent the usage of OneDrive for file storage
 
 Enabled
 
-####Turn off Active Help
+#####Turn off Active Help
 
 Enabled
