@@ -137,3 +137,77 @@ Enabled
 #####Turn off Active Help
 
 Enabled
+
+#####Allow Cortana
+
+Disabled
+
+#####Allow search and Cortana to use location
+
+Disabled
+
+#####Do not allow web search
+
+Enabled
+
+#####Don't search the web or display web results in Search
+
+Enabled
+
+#####Set what information is shared in Search
+
+Enabled | Anonymous info
+
+#####Set the SafeSearch setting for Search
+
+Enabled | Off
+
+#####Do not sync
+
+Enabled
+
+#####Allow corporate redirection of Customer Experience Improvement uploads
+
+Enabled | 127.0.0.1
+
+#####Tag Windows Customer Experience Improvement data with Study Identifier
+
+Disabled
+
+#####Join Microsoft MAPS
+
+Disabled
+
+#####Send file samples when further analysis is required
+
+Enabled | Never send
+
+#####Turn on behavior monitoring
+
+Disabled
+
+#####Disable Windows Error Reporting
+
+Enabled
+
+#####Configure Error Reporting
+
+Enabled
+
+Do not display links to any Microsoft provided 'more information' web sites
+
+Do not collect additional files
+
+Do not collect additional machine data
+
+#####Automaticallty send memory dumps for OS-generated error reports
+
+Disabled
+
+#####Do not send additonal data
+
+Enabled
+
+#####Defer Upgrades and Updates
+
+Disable
