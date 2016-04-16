@@ -14,6 +14,8 @@ Machine\Windows Components\Data Collection and Preview Builds
 
 `Security`
 
+*Note: `Security` falls back to `Basic` in non-enterprise verisons.*
+
 #####Allow Windows to automatically connect to suggested open hotspots, to networks shared by contacts, and to hotspots offering paid services
 
 Machine\Administrative Templates\Network\WLAN Service\WLAN Settings
@@ -46,11 +48,11 @@ Machine\Windows Components\Windows Error Reporting
 
 `Enabled`, with settings:
 
-Do not display links to any Microsoft provided 'more information' websites
+`Do not display links to any Microsoft provided 'more information' websites`
 
-Do not collect additonal files
+`Do not collect additonal files`
 
-Do not collect additonal machine data
+`Do not collect additonal machine data`
 
 #####Configure Windows SmartScreen
 
