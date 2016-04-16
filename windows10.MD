@@ -398,6 +398,6 @@ Machine\System\User Profiles
 
 #####Turn on behavior monitoring
 
-User\Windows Components\Windows Defender\Real-time Protection
+Machine\Windows Components\Windows Defender\Real-time Protection
 
 `Disabled`
