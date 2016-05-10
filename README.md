@@ -1,3 +1,3 @@
-# Windows-GP-Privacy
+# Windows-10-Hardening
 
-A complete list of Windows 10 group policy settings that optimise privacy and security.
+A collective resource of settings modifications that make Windows 10 as private and as secure as possible.
