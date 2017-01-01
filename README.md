@@ -16,7 +16,7 @@ A collective resource of settings modifications (*mostly opt-outs*) that attempt
 
 1. Group policy registry references often change after major updates. This requires updates to these scripts.
 
-2. Many of these modifications are mere *opt-outs*, and are not means to ensure Microsoft are not collecting telemetry data.
+2. Many of these modifications are mere *opt-outs*, and are not means to ensure Microsoft are unable to collect telemetry data.
 
 ---
 
