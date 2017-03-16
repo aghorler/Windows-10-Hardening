@@ -20,11 +20,11 @@ A collective resource of settings modifications (*mostly opt-outs*) that attempt
 
 ---
 
-#####Privacy
+#### Privacy
 
 This collection of scripts does not collect any user data. 
 
-#####License
+#### License
 
 Copyright 2017 Aaron Horler
 
