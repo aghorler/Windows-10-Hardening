@@ -1,5 +1,7 @@
 # Windows-10-Hardening
 
+**Important note: I have effectively abandoned this project. Anyone who wishes to contribute further is welcome.**
+
 A collective resource of settings modifications (*mostly opt-outs*) that attempt to make Windows 10 as private and as secure as possible.
 
 ### Registry
