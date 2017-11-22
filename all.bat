@@ -1,3 +1,17 @@
+:: SERVICES
+
+:: Privacy - Stop telemetry services.
+net stop DiagTrack
+net stop dmwappushservice
+
+:: Privacy - Delete telemetry services.
+sc delete DiagTrack
+sc delete dmwappushservice
+
+
+
+:: GROUP POLICY
+
 :: Privacy - Disable Microsoft Help feedback.
 reg add "HKEY_CURRENT_USER\Software\Policies\Microsoft\Assistance\Client\1.0" /v "NoExplicitFeedback" /t REG_DWORD /d 1 /f
 reg add "HKEY_CURRENT_USER\Software\Policies\Microsoft\Assistance\Client\1.0" /v "NoImplicitFeedback" /t REG_DWORD /d 1 /f
