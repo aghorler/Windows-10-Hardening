@@ -1,18 +1,14 @@
 # Windows-10-Hardening
 
-**Important note: I have effectively abandoned this project. Anyone who wishes to contribute further is welcome.**
+**Important note: I update this project infrequently. Anyone who wishes to contribute more frequently is welcome.**
 
 A collective resource of settings modifications (*mostly opt-outs*) that attempt to make Windows 10 as private and as secure as possible.
 
-### Registry
+### Running
 
-* [Windows 10 batch file](../master/registry/windows10.bat)
+Download [all.bat](https://raw.githubusercontent.com/aghorler/Windows-10-Hardening/master/all.bat), make any required modifications, and run the script as administrator.
 
-* [Office 2016 batch file](../master/registry/office2016.bat)
-
-### Group policy
-
-* [List of Windows 10 Group policy changes](../master/group_policy/windows10.MD)
+Reboot.
 
 ### Issues
 
