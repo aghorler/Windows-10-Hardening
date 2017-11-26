@@ -630,8 +630,6 @@ netsh advfirewall firewall delete rule name="block_RemoteRegistry_in"
 netsh advfirewall firewall delete rule name="block_RemoteRegistry_out"
 netsh advfirewall firewall delete rule name="block_RetailDemo_in"
 netsh advfirewall firewall delete rule name="block_RetailDemo_out"
-netsh advfirewall firewall delete rule name="block_WinRM_in"
-netsh advfirewall firewall delete rule name="block_WinRM_out"
 netsh advfirewall firewall delete rule name="block_WMPNetworkSvc_in"
 netsh advfirewall firewall delete rule name="block_WMPNetworkSvc_out"
 netsh advfirewall firewall delete rule name="block_WSearch_in"
@@ -658,8 +656,6 @@ netsh advfirewall firewall add rule name="block_RemoteRegistry_in" dir=in servic
 netsh advfirewall firewall add rule name="block_RemoteRegistry_out" dir=out service="RemoteRegistry" action=block enable=yes
 netsh advfirewall firewall add rule name="block_RetailDemo_in" dir=in service="RetailDemo" action=block enable=yes
 netsh advfirewall firewall add rule name="block_RetailDemo_out" dir=out service="RetailDemo" action=block enable=yes
-netsh advfirewall firewall add rule name="block_WinRM_in" dir=in service="WinRM" action=block enable=yes
-netsh advfirewall firewall add rule name="block_WinRM_out" dir=out service="WinRM" action=block enable=yes
 netsh advfirewall firewall add rule name="block_WMPNetworkSvc_in" dir=in service="WMPNetworkSvc" action=block enable=yes
 netsh advfirewall firewall add rule name="block_WMPNetworkSvc_out" dir=out service="WMPNetworkSvc" action=block enable=yes
 netsh advfirewall firewall add rule name="block_WSearch_in" dir=in service="WSearch" action=block enable=yes
