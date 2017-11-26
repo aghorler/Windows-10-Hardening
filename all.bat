@@ -1,6 +1,6 @@
 :: SERVICES
 
-:: Privacy - Stop telemetry services.
+:: Privacy - Stop unneeded services.
 net stop DiagTrack
 net stop dmwappushservice
 net stop RemoteRegistry
@@ -8,7 +8,7 @@ net stop RetailDemo
 net stop WinRM
 net stop WMPNetworkSvc
 
-:: Privacy - Delete telemetry services.
+:: Privacy - Delete, or disable, unneeded services.
 sc config RemoteRegistry start=disabled
 sc config RetailDemo start=disabled
 sc config WinRM start=disabled
