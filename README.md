@@ -24,7 +24,7 @@ This collection of scripts does not collect any user data.
 
 #### License
 
-Copyright 2017 Aaron Horler
+Copyright 2018 Aaron Horler
 
 Licensed under the Apache License, Version 2.0 (the "License");
 you may not use this file except in compliance with the License.
