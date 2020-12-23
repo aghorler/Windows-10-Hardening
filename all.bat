@@ -385,7 +385,7 @@ reg add "HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Policies\Pr
 reg add "HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\Windows\CurrentVersion\MDM" /v "DisableRegistration" /t REG_DWORD /d 1 /f
 
 
-:: Privacy/Security - Only download Windows Updates from LAN peers, and Microsoft servers.
+:: Privacy/Security - Only download Windows Updates from Microsoft servers.
 reg add "HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\Windows\DeliveryOptimization" /v "DODownloadMode" /t REG_DWORD /d 100 /f
 
 
